@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.asm": "asm-intel-x86-generic",
+        "errno.h": "c"
+    }
+}
